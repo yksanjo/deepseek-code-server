@@ -1,5 +1,12 @@
 # deepseek-code-server
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/deepseek-code-server/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/deepseek-code-server/actions)
+![License](https://img.shields.io/github/license/yksanjo/deepseek-code-server)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/deepseek-code-server)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/deepseek-code-server)
+
 ## Detailed Description
 
 deepseek-code-server is maintained as an industry-grade software project with production-ready engineering practices.  
